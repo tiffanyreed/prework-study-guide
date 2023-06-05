@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-The usage of thi guide will be to review notes in ech section that we covered. It contains inforamtion on HTML, CSS, JavaScript, and Git. 
+The usage of this guide will be to review notes in each section that we covered. It contains information on HTML, CSS, JavaScript, and Git. 
 
 
 ## Credits
